@@ -1,3 +1,9 @@
+# Fork project
+
+Fork from PdfiumAndroid: https://github.com/barteksc/PdfiumAndroid
+
+* Upgraded dependencies to AndroidX
+
 # Pdfium Android binding with Bitmap rendering
 Uses pdfium library [from AOSP](https://android.googlesource.com/platform/external/pdfium/)
 
